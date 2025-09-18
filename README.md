@@ -317,6 +317,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [FAANGPath Resume template](https://faangpath.com/template/) : Maximize your chances to get your resume in the hands on HR/HM.
 - [five-essential-phone-screen-questions - steveyegge2](https://sites.google.com/site/steveyegge2/five-essential-phone-screen-questions)
 - [Freshers Interviews](http://placementsindia.blogspot.com)
+- [FrontendGeek](https://frontendgeek.com/) : All in One Prepraration Hub to Ace All Rounds of Frontend Interviews | Frontend Interview Experiences
 - [Gainlo](http://www.gainlo.co/#!/) : Mock interview from professionals 
 - [GeeksforGeeks/A computer science portal for geeks](http://www.geeksforgeeks.org) : also subscribe to their feeds to get links to their new articles.
 - [github.com/odino/interviews](https://github.com/odino/interviews) : list of important questions for interview
